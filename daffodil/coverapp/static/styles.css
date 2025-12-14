@@ -1,0 +1,62 @@
+body
+{
+    background:rgba(134, 9, 134, 0.795)
+}
+.container
+{
+    width:515px;
+    height:600px;
+    image-orientation:flip;
+    background-image:url('violet.jpg');
+    background-size:cover;
+    background-position:center;
+    padding:10px;
+    margin-left:500px;
+    border-width:10px;
+    border-spacing:5px;
+    border-style:solid;
+    border-color:rgb(250, 242, 250);
+    ;
+    
+    
+}
+h2
+{
+    color:whitesmoke;
+    border-bottom: 5px solid rgb(239, 223, 244);
+    padding-bottom:10px;
+    
+}
+.highlight {
+   background-color: #e74efb; 
+   color: #ffffff; 
+   padding: 0.25em 0;
+   display: inline-block;
+}
+.quote
+{
+    background:#cd43fb;
+    padding:12px;
+    margin:15px 0;
+    border-left:5px solid #7b1195;
+
+}
+.author
+{
+    background: purple;
+    padding:12px;
+    gap:15px;
+    align-items: center;
+    border:10px solid #ccc;
+
+
+}
+.footer
+{
+    background: #a022d6;
+    color:white;
+    padding:10px;
+    margin-top:flex;
+    display:flex;
+    justify-content: center;
+}
